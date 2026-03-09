@@ -1,7 +1,6 @@
 # Karo Pitch – Demo Landing Page
 
 🔗 **Live Demo:** https://karopitchdemo.netlify.app
-💻 **GitHub Repository:** https://github.com/aryan25s/karo-pitch-landing-page
 
 ---
 
